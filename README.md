@@ -73,4 +73,5 @@ data-cookie={"BDUSS":"ABC","BAIDUID":"ASCED"}
 
 现阶段为了安全起见,只在以下网站加载本插件.
 
-* https://qiandao.today/
+* https://qiandao.elfive.vip/
+* https://qiandao.elfive.cn/
