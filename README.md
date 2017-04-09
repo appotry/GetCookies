@@ -2,10 +2,13 @@
 
 Chrome下获取Cookies插件,突破HTTP ONLY限制  
 
-Chrome商店安装Link:  
+# 获取插件
 
+### 谷歌商店
 [Chrome商店下载](https://chrome.google.com/webstore/detail/cookies-get-assistant/flidilldhehoieobcejmjmnhfaabghfc)
-[crx直接下载（Github）](https://raw.githubusercontent.com/elfive1992/GetCookies/master/GetCookies.crx)
+
+### 直接下载（安装需信任ID: flidilldhehoieobcejmjmnhfaabghfc）
+[crx直接下载（Github）](https://raw.githubusercontent.com/elfive1992/GetCookies/master/GetCookies.crx)  
 
 # 使用文档
 
