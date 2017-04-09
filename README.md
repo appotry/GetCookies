@@ -86,7 +86,9 @@ data-cookie={"BDUSS":"ABC","BAIDUID":"ASCED"}
 
 1、我只为签到项目提供改服务；  
 
-2、你的签到项目必须是 fork 的我的或者 acgotaku 本人的项目，而且必须开源；  
+2、你的签到项目必须是 fork 我的项目或者 acgotaku 本人的项目，而且必须是开源项目；
+- 我的项目 [Github](https://github.com/elfive1992/qiandao)
+- acgotaku（[Github](https://github.com/binux/qiandao)）  
 
 3、联系我的时候，请务必在邮件中附上你个人的开源项目地址，目前仅限于 Github；  
 
