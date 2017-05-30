@@ -5,7 +5,7 @@
    },
    "content_scripts": [ {
       "js": ["js/cookie.js" ],
-      "matches": [ "https://qiandao.elfive.vip/*", "https://qiandao.elfive.cn/" ]
+      "matches": [ "*://qiandao.elfive.vip/*", "*://qiandao.elfive.cn/" ]
    } ],
    "default_locale": "en",
    "description": "__MSG_description__",
@@ -18,5 +18,5 @@
    "manifest_version": 2,
    "permissions": [ "cookies", "tabs", "http://*/*", "https://*/*"],
    "name": "__MSG_appName__",
-   "version": "0.0.6"
+   "version": "0.1.0"
 }
